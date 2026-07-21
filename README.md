@@ -90,8 +90,7 @@ Building projects focused on:
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/kavana-bt-4b79b7363
-- 💻 GitHub: Add your GitHub profile
-
+- 💻 GitHub:https://github.com/kavana-06
 ---
 
 <p align="center">
