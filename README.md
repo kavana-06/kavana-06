@@ -21,47 +21,40 @@ Focused on **AI Engineering, Cloud Computing, DevOps, automation, and data-drive
 
 ### 🤖 AI & Machine Learning
 
-Python for AI/ML • Machine Learning • Generative AI • LLM Applications • RAG • NumPy • Pandas • scikit-learn
-  
+Python for AI/ML | Machine Learning | Generative AI | LLM Applications | RAG | NumPy | Pandas | scikit-learn
+
 ### ☁️ Cloud & DevOps
 
-Cloud Infrastructure • Docker • Kubernetes • Terraform • Terraform (Infrastructure as Code) • GitHub Actions (CI/CD) • Linux
-  
+Cloud Infrastructure | Docker | Kubernetes | Terraform | Terraform (Infrastructure as Code) | GitHub Actions (CI/CD) | Linux
+
 ### 💻 Programming & Development
 
-Python • Java • SQL • Git • GitHub • Linux
+Python | Java | SQL | Git | GitHub | Linux
 
 ### 📊 Data Analytics
 
-Excel • SQL Analytics • Python for Data Analysis • Data Visualization • Power BI
+Excel | SQL Analytics | Python for Data Analysis | Data Visualization | Power BI
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ Cloud Engineering Projects
+### ☁️ Cloud Engineering
 
-- Cloud Infrastructure Deployment
-- Dockerized Applications
-- CI/CD Automation Projects
+Cloud Infrastructure Deployment | Dockerized Applications | CI/CD Automation Projects
 
-### 🤖 AI & Machine Learning Projects
+### 🤖 AI & Machine Learning
 
-- Machine Learning Models
-- Generative AI & LLM Applications
-- AI Model Deployment
+Machine Learning Models | Generative AI & LLM Applications | AI Model Deployment
 
-### 📊 Data Analytics Projects
+### 📊 Data Analytics
 
-- Data Cleaning & Analysis
-- Business Intelligence Dashboards
-- Data Visualization Projects
+Data Cleaning & Analysis | Business Intelligence Dashboards | Data Visualization Projects
 
-### 🐍 Python Projects
+### 🐍 Python
 
-- Automation Scripts
-- Data Processing Applications
-- AI & Python Applications
+Automation Scripts | Data Processing Applications | AI & Python Applications
+
 
 ---
 
