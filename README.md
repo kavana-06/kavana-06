@@ -8,12 +8,12 @@ Focused on **AI Engineering, Cloud Computing, DevOps, automation, and data-drive
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science Engineering Student
-* 🤖 Exploring **AI/ML, Generative AI, LLMs, and RAG**
-* ☁️ Building skills in **Cloud Infrastructure & DevOps**
-* 📊 Passionate about **Data Analytics and Data-Driven Decision Making**
-* 🌱 Currently learning **Linux, Docker, Kubernetes, Terraform, Python, SQL, and AI technologies**
-* 🚀 Building hands-on projects to develop practical engineering skills
+- 🎓 Computer Science Engineering Student
+- 🤖 Exploring **AI/ML, Generative AI, LLMs, and RAG**
+- ☁️ Building skills in **Cloud Infrastructure & DevOps**
+- 📊 Passionate about **Data Analytics and Data-Driven Decision Making**
+- 🌱 Currently learning **Linux, Docker, Kubernetes, Terraform, Python, SQL, and AI technologies**
+- 🚀 Building hands-on projects to develop practical engineering skills
 
 ---
 
@@ -21,77 +21,47 @@ Focused on **AI Engineering, Cloud Computing, DevOps, automation, and data-drive
 
 ### 🤖 AI & Machine Learning
 
-* Python for AI/ML
-* Machine Learning
-* Generative AI
-* LLM Applications
-* RAG
-* NumPy
-* Pandas
-* scikit-learn
-
+Python for AI/ML • Machine Learning • Generative AI • LLM Applications • RAG • NumPy • Pandas • scikit-learn
+  
 ### ☁️ Cloud & DevOps
 
-* Cloud Computing
-* Cloud Infrastructure
-* Docker
-* Kubernetes
-* Terraform
-* Infrastructure as Code (IaC)
-* GitHub Actions
-* CI/CD
-* Linux
-* Automation
-
+Cloud Infrastructure • Docker • Kubernetes • Terraform • Terraform (Infrastructure as Code) • GitHub Actions (CI/CD) • Linux
+  
 ### 💻 Programming & Development
 
-* Python
-* SQL
-* Git
-* GitHub
-* FastAPI
-* REST APIs
+Python • Java • SQL • Git • GitHub • Linux
 
 ### 📊 Data Analytics
 
-* Excel
-* SQL Analytics
-* Python for Data Analysis
-* Pandas
-* NumPy
-* Data Visualization
-* Power BI
-* Business Intelligence
+Excel • SQL Analytics • Python for Data Analysis • Data Visualization • Power BI
 
 ---
 
-## 🎯 Current Learning Goals
+## 🚀 Featured Projects
 
-* Building practical **AI-powered applications**
-* Learning **Generative AI, LLMs & RAG**
-* Developing **cloud-based applications**
-* Understanding **Cloud Architecture**
-* Implementing **CI/CD pipelines**
-* Learning **Infrastructure as Code with Terraform**
-* Strengthening **Docker & Kubernetes**
-* Developing **Data Analytics projects**
-* Exploring **MLOps and AI deployment**
-* Preparing for **Cloud certifications**
+### ☁️ Cloud Engineering Projects
 
----
+- Cloud Infrastructure Deployment
+- Dockerized Applications
+- CI/CD Automation Projects
 
-## 📈 GitHub Activity
+### 🤖 AI & Machine Learning Projects
 
-Building projects focused on:
+- Machine Learning Models
+- Generative AI & LLM Applications
+- AI Model Deployment
 
-* 🤖 AI & Machine Learning
-* ☁️ Cloud Computing
-* ⚙️ DevOps & Automation
-* 🚀 MLOps & AI Deployment
-* 📊 Data Analytics
-* 🐍 Python Development
-* 🏗️ Infrastructure as Code
-* 🐧 Linux & Systems Engineering
+### 📊 Data Analytics Projects
+
+- Data Cleaning & Analysis
+- Business Intelligence Dashboards
+- Data Visualization Projects
+
+### 🐍 Python Projects
+
+- Automation Scripts
+- Data Processing Applications
+- AI & Python Applications
 
 ---
 
@@ -99,7 +69,8 @@ Building projects focused on:
 
 - 💼 LinkedIn: www.linkedin.com/in/kavana-bt-4b79b7363
 - 💻 GitHub:https://github.com/kavana-06
-
 ---
 
-### 🚀 Learn • Build • Automate • Deploy • Improve
+<p align="center">
+<i>Learning • Building • Improving</i>
+</p>
