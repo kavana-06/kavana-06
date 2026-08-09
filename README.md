@@ -16,44 +16,26 @@ Focused on **AI Engineering, Cloud Computing, DevOps, automation, and data-drive
 - 🚀 Building hands-on projects to develop practical engineering skills
 
 ---
-
 ## 🛠️ Technical Skills
 
-### 🤖 AI & Machine Learning
-
-Python for AI/ML | Machine Learning | Generative AI | LLM Applications | RAG | NumPy | Pandas | scikit-learn
-
-### ☁️ Cloud & DevOps
-
-Cloud Infrastructure | Docker | Kubernetes | Terraform | Terraform (Infrastructure as Code) | GitHub Actions (CI/CD) | Linux
-
-### 💻 Programming & Development
-
-Python | Java | SQL | Git | GitHub | Linux
-
-### 📊 Data Analytics
-
-Excel | SQL Analytics | Python for Data Analysis | Data Visualization | Power BI
+| Area                             | Skills                                                                                                                       |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 **AI & Machine Learning**     | Python for AI/ML · Machine Learning · Generative AI · LLM Applications · RAG · NumPy · Pandas · scikit-learn                 |
+| ☁️ **Cloud & DevOps**            | Cloud Infrastructure · Docker · Kubernetes · Terraform · Terraform (Infrastructure as Code) · GitHub Actions (CI/CD) · Linux |
+| 💻 **Programming & Development** | Python · Java · SQL · Git · GitHub · Linux                                                                                   |
+| 📊 **Data Analytics**            | Excel · SQL Analytics · Python for Data Analysis · Data Visualization · Power BI                                             |
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ Cloud Engineering
+| Category                     | Focus Areas                                                                               |
+| ---------------------------- | ----------------------------------------------------------------------------------------- |
+| ☁️ **Cloud Engineering**     | Cloud Infrastructure Deployment · Dockerized Applications · CI/CD Automation Projects     |
+| 🤖 **AI & Machine Learning** | Machine Learning Models · Generative AI & LLM Applications · AI Model Deployment          |
+| 📊 **Data Analytics**        | Data Cleaning & Analysis · Business Intelligence Dashboards · Data Visualization Projects |
+| 🐍 **Python**                | Automation Scripts · Data Processing Applications · AI & Python Applications              |
 
-Cloud Infrastructure Deployment | Dockerized Applications | CI/CD Automation Projects
-
-### 🤖 AI & Machine Learning
-
-Machine Learning Models | Generative AI & LLM Applications | AI Model Deployment
-
-### 📊 Data Analytics
-
-Data Cleaning & Analysis | Business Intelligence Dashboards | Data Visualization Projects
-
-### 🐍 Python
-
-Automation Scripts | Data Processing Applications | AI & Python Applications
 
 
 ---
