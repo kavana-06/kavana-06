@@ -33,16 +33,6 @@ I build complete systems rather than isolated scripts: data pipelines that feed 
 
 **Stack:** Python · Pandas · MySQL · SQL · Docker · Power BI
 
-### 2. Local Hybrid Cloud GitOps Platform
-**Cloud-native deployment platform with automated delivery and full observability.**
-[View repository](https://github.com/kavana-06/local-hybrid-cloud-gitops)
-
-- Containerised services with **Docker** and orchestrated them on **Kubernetes**
-- Automated build and deploy with a **GitHub Actions CI/CD** pipeline, following GitOps principles
-- Added monitoring with **Prometheus** and **Grafana**, and alerting with **Alertmanager**
-
-**Stack:** Python · Docker · Kubernetes · GitHub Actions · Prometheus · Grafana · Alertmanager
-
 ---
 
 ## Technical Skills
@@ -50,9 +40,8 @@ I build complete systems rather than isolated scripts: data pipelines that feed 
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | Python, SQL, Java |
-| **Software Engineering** | Git, GitHub, GitHub Actions (CI/CD), Docker, Linux, REST-style service design, ETL pipelines |
+| **Software Engineering** | Git, GitHub, GitHub Actions (CI/CD), Docker, full-stack |
 | **Data Analytics** | Pandas, NumPy, MySQL, dimensional modelling, SQL analytics, Power BI, Excel |
-| **Cloud & DevOps** | Kubernetes, GitOps, Prometheus, Grafana, Alertmanager |
 
 ---
 
@@ -65,7 +54,6 @@ I build complete systems rather than isolated scripts: data pipelines that feed 
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
@@ -77,7 +65,7 @@ I build complete systems rather than isolated scripts: data pipelines that feed 
 
 ## Get in Touch
 
-I'm looking for internship and entry-level opportunities in **software engineering**, **data analytics** and **DevOps**.
+I'm looking for internship and entry-level opportunities in **software engineering**, **data analytics** .
 
 - LinkedIn: [kavana-bt-4b79b7363](https://www.linkedin.com/in/kavana-bt-4b79b7363)
 - GitHub: [kavana-06](https://github.com/kavana-06)
