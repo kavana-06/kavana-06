@@ -1,22 +1,27 @@
-<h1 align="center">Kavana BT</h1>
+# Kavana BT
+
+### Computer Science Engineering Student | Software Engineering | Data Analytics
+
+Interested in building reliable software applications, solving technical problems, and turning data into actionable insights.
 
 <p align="center">
-  <b>Software Engineering &nbsp;|&nbsp; Data Analytics &nbsp;|&nbsp; Cloud & DevOps</b><br/>
-  Computer Science Engineering student building production-style systems end to end.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavana-bt-4b79b7363"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/kavana-06?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-555555?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--level%20roles-2EA44F?style=flat-square" alt="Open to work"/>
+  <a href="https://www.linkedin.com/in/kavana-bt-4b79b7363">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kavana-06">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-India-555555?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Entry--Level%20Roles-2EA44F?style=flat-square" alt="Open to opportunities"/>
 </p>
 
 ---
 
-## Summary
+## Professional Summary
 
-I build complete systems rather than isolated scripts: data pipelines that feed dashboards, and services that ship through automated CI/CD with monitoring in place. My work combines **software engineering fundamentals**, **SQL and analytics**, and **DevOps practices**.
+Computer Science Engineering student with an interest in **Software Engineering and Data Analytics**. Focused on developing programming skills, building practical applications, working with databases, and analysing data to solve real-world problems.
+
+Experienced with hands-on projects involving Python, Java, SQL, data processing, and business intelligence tools. Interested in software development, backend engineering, database systems, and data-driven decision-making. Committed to writing maintainable code, strengthening problem-solving abilities, and continuously learning modern technologies.
 
 ---
 
@@ -39,9 +44,10 @@ I build complete systems rather than isolated scripts: data pipelines that feed 
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL, Java |
-| **Software Engineering** | Git, GitHub, GitHub Actions (CI/CD), Docker, full-stack |
-| **Data Analytics** | Pandas, NumPy, MySQL, dimensional modelling, SQL analytics, Power BI, Excel |
+| **Programming Languages** | Python, SQL, Java |
+| **Software Development** | Git, GitHub, GitHub Actions (CI/CD), Docker, full-stack web and Application development |
+| **Data Analytics** | Pandas, NumPy, MySQL,SQL analytics, Data Cleaning, Data Transformation, Exploratory Data Analysis |
+| **Data Visualization** |  Microsoft Power BI, Microsoft Excel |
 
 ---
 
